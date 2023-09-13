@@ -1,0 +1,82 @@
+[
+  {
+    "model": "livro.escritor",
+    "pk": 1,
+    "fields": {
+      "nome": "Emily St. Clair",
+      "biografia": "Emily St. Clair é uma autora fictícia conhecida por suas histórias emocionantes e envolventes. Ela tem uma paixão pela escrita desde a infância e começou a escrever contos aos dez anos de idade. Seus romances são conhecidos por sua narrativa cativante e personagens complexos."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 2,
+    "fields": {
+      "nome": "Daniel Ainsley",
+      "biografia": "Daniel Ainsley é um autor fictício que se destaca por seus livros de mistério e suspense. Sua habilidade em criar enredos intrigantes e reviravoltas surpreendentes cativa os leitores. Ele é conhecido por manter os leitores na ponta de seus assentos até a última página."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 3,
+    "fields": {
+      "nome": "Isabella Whitman",
+      "biografia": "Isabella Whitman é uma autora fictícia especializada em romances de época. Seus livros transportam os leitores para mundos encantadores e românticos, repletos de personagens apaixonantes e cenários exuberantes."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 4,
+    "fields": {
+      "nome": "Benjamin Thorne",
+      "biografia": "Benjamin Thorne é um autor fictício cujas histórias de ficção científica e fantasia conquistaram uma base de fãs leal. Seu talento em criar universos imaginativos e criaturas únicas o tornou um dos autores mais queridos do gênero."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 5,
+    "fields": {
+      "nome": "Olivia Blake",
+      "biografia": "Olivia Blake é uma autora fictícia que se destaca por seus romances contemporâneos. Suas histórias emocionantes e personagens realistas cativam os leitores e os fazem refletir sobre o amor e a vida."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 6,
+    "fields": {
+      "nome": "Liam McCullough",
+      "biografia": "Liam McCullough é um autor fictício que escreve thrillers psicológicos eletrizantes. Suas tramas complexas e personagens intrigantes mantêm os leitores adivinhando até o final de seus livros."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 7,
+    "fields": {
+      "nome": "Sophia Archer",
+      "biografia": "Sophia Archer é uma autora fictícia de literatura de fantasia épica. Seus mundos ricamente detalhados e heróis corajosos transportam os leitores para aventuras emocionantes além da imaginação."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 8,
+    "fields": {
+      "nome": "Jackson Wilde",
+      "biografia": "Jackson Wilde é um autor fictício que escreve romances policiais de tirar o fôlego. Sua habilidade em criar mistérios intrigantes e investigadores perspicazes o tornou um nome de destaque no gênero."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 9,
+    "fields": {
+      "nome": "Charlotte Harrington",
+      "biografia": "Charlotte Harrington é uma autora fictícia conhecida por seus livros de romance histórico. Ela é mestre em transportar os leitores para o passado, recriando épocas e sociedades fascinantes."
+    }
+  },
+  {
+    "model": "livro.escritor",
+    "pk": 10,
+    "fields": {
+      "nome": "Henry Sinclair",
+      "biografia": "Henry Sinclair é um autor fictício que se destaca por suas obras de não ficção. Seus livros exploram uma variedade de tópicos, desde história até filosofia, proporcionando aos leitores uma visão perspicaz do mundo."
+    }
+  }
+]
