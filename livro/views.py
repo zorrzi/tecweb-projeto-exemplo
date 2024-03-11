@@ -18,7 +18,7 @@ def exemplo(request, id):
     livro = Livro(titulo=titulo_aleatorio, escritor=escritor)
     livro.save()
 
-    return redirect('index')
+    return redirect('livros')
 
 def livros(request):
     livros = Livro.objects.all()
