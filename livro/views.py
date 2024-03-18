@@ -5,6 +5,11 @@ from random import choice
 # Create your views here.
 
 def index(request):
+    if request.method == 'POST':
+        nome = request.POST['escritor']
+        escritor = Escritor(nome=nome)
+        escritor.save()
+        return redirect('index')
     escritores = Escritor.objects.all()
     return render(request, 'livro/index.html', {'escritores':escritores})
 

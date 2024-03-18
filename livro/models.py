@@ -3,7 +3,7 @@ from django.db import models
 # Create your models here.
 class Escritor(models.Model):
     nome = models.CharField(max_length=200)
-    biografia = models.TextField()
+    biografia = models.TextField(null=True)
 
 class Livro(models.Model):
     titulo = models.CharField(max_length=200)
