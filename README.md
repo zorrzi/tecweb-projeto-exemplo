@@ -1,4 +1,4 @@
-# 2023.2-tecweb-django-many-to-one-example
+# TECWEB - Projeto Exemplo
 Repositório contém exemplo de relação Many-to-one
 
 - Crie um ambiente virtual
